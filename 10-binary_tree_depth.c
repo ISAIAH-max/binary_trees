@@ -4,7 +4,7 @@
  *binary_tree_depth - A function that measures the depth of a node
  *in a binary tree
  *@tree: A pointer to the node to measure the depth.
- *Return: depth of a node in a binary tree
+ *Return: depth of a node in a binary tree.
  *If tree is NULL, your function must return 0
  */
 
